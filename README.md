@@ -24,4 +24,10 @@ To run the TrueTwitter website locally, follow these steps:
   source env/bin/activate
   
 5. Install the required packages:
+  pip install -r requirements.txt
 
+## Running the Website
+
+1. Ensure that you have activated the virtual environment (if created).
+2. Run the Streamlit application:
+  streamlit run "Streamlit App".py
