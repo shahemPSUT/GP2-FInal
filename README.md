@@ -40,7 +40,7 @@ To run the TrueTwitter website locally, follow these steps:
 3. Enter the Twitter username or user ID you want to analyze in the provided input field.
 4. Click the "Verify" button to initiate the analysis process.
 5. Wait for the algorithm to analyze the account.
-6. The website will display the results indicating whether the account is likely to be fake or authentic.
+6. The website will display the results indicating whether the account is likely to be fake or real.
 
 ## Contact Us
 
