@@ -10,10 +10,14 @@ To run the TrueTwitter website locally, follow these steps:
 
 1. Clone the repository:
   https://github.com/shahemPSUT/GP2-FInal.git
+  
 2. Navigate to the project directory:
   cd GP2-FInal
+  
 3.Create a virtual environment (optional but recommended):
+
   python -m venv env
+  
  4. Activate the virtual environment:
 - For Windows:
   
