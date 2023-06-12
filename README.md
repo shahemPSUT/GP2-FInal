@@ -13,20 +13,20 @@ To run the TrueTwitter website locally, follow these steps:
   
 2. Navigate to the project directory:
 
-  cd GP2-FInal
+     cd GP2-FInal
   
 3.Create a virtual environment (optional but recommended):
 
-  python -m venv env
+    python -m venv env
   
- 4. Activate the virtual environment:
-- For Windows:
+4. Activate the virtual environment:
+  - For Windows:
   
-  env\Scripts\activate
+    env\Scripts\activate
   
-- For Linux/Mac:
+  - For Linux/Mac:
   
-  source env/bin/activate
+    source env/bin/activate
   
 5. Install the required packages:
   pip install -r requirements.txt
