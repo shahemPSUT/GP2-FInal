@@ -52,7 +52,4 @@ For any questions, suggestions, or feedback, please feel free to reach out to th
 
 We appreciate your feedback and are happy to assist you with any inquiries or concerns you may have.
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify
 
